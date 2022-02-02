@@ -1,0 +1,17 @@
+Update Log:
+
+Feburary 1st 2022: Bug Fixes:
+The second release, Bug Fixes.
+- Fixed an issue with building as code was being used with the unity editor which doesn't work in builds. These have now been disabled
+- New Requirement: Commands have to be added to a list to work, TIP: place them on the same object. (Sorry, Couldn't think of another way)
+- Some commands might be broken due to this, Please tell me if they are.
+
+Januarary 19th 2022: First release!!!:
+This is the first public release of this console and includeds the following things
+- In-game console which displays error, warnings and logs
+- Collaspe mode for the console to easily see messages
+- Stack Trace overview, View exactually where the error came from (easy for debuging on devices like mobile / xbox)!
+- Built-In and Custom Commands to help you debug your experience.
+- Easy to add Custom Command (use CommandLayout as a help)
+- Help section to see all commands (Includeds custom)
+- Easy to add to a scene, Just use the menu at the top.
